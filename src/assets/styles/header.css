@@ -3,7 +3,7 @@
     display: flex;
     justify-content:space-between;
     align-items: center;
-    background-color: azure;
+    background-color: rgb(241, 223, 236);
     border-radius: 20px;
     box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
 }

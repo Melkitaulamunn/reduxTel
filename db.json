@@ -1,13 +1,26 @@
 {
-  "person": [],
+  "person": [
+    {
+      "id": "1677763706334",
+      "name": "Ayşe ALBAYRAK",
+      "mobil": "089323472472",
+      "categoryId": "2"
+    },
+    {
+      "id": "1677765090015",
+      "name": "Nesrin DEMİR",
+      "mobil": "05858378922",
+      "categoryId": "1677500527134"
+    }
+  ],
   "categories": [
     {
       "id": "1",
-      "name": "Friends 1"
+      "name": "FRIENDS"
     },
     {
       "id": "2",
-      "name": "Work"
+      "name": "WORK"
     },
     {
       "id": "1677499829033",
@@ -16,6 +29,14 @@
     {
       "id": "1677500527134",
       "name": "BEST FRIENDS"
+    },
+    {
+      "id": "1677760928530",
+      "name": ""
+    },
+    {
+      "id": "1677762450301",
+      "name": ""
     }
   ]
 }

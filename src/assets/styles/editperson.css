@@ -45,7 +45,7 @@
 }
 
 .submitBtn:hover{
-    color:chartreuse;
-    background-color: black;
+    color:rgb(12, 12, 12);
+    background-color: rgb(231, 216, 244);
     box-shadow: 3px 3px 0 0 pink;
 }
