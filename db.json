@@ -1,8 +1,21 @@
 {
-    "categories":[
-
-    ],
-    "persons":[
-        
-    ]
+  "person": [],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Friends 1"
+    },
+    {
+      "id": "2",
+      "name": "Work"
+    },
+    {
+      "id": "1677499829033",
+      "name": "FAMILY"
+    },
+    {
+      "id": "1677500527134",
+      "name": "BEST FRIENDS"
+    }
+  ]
 }

@@ -1,0 +1,35 @@
+.headerContainer {
+    width:90%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: azure;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+}
+
+.headerContainerWrapper {
+    width:85%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+
+.headerLogo{
+    border: none;
+    border-radius: 100%;
+    width:75px;
+    margin: 1rem 0;
+    background-color: blueviolet;
+}
+
+.toBack{
+    width:35px;
+    position: relative;
+}
+
+.toBackImg{
+    width:100%;
+    position: absolute;
+    top:-45px
+}
